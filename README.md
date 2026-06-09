@@ -14,6 +14,11 @@ This repository contains my Verilog HDL practice programs and RTL design exercis
 - NOT Gate
 
 ### Combinational Circuits
+- Half Adder
+- Full Adder
+- Half Subtractor
+- Full Subtractor
+- Ripple Carry Adder
 - Multiplexers
 - Demultiplexers
 - Encoders
